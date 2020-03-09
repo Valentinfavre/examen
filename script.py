@@ -7,4 +7,9 @@ print(c)
 
 print("This is the 2nd part of calc")
 
+a = a * 78
+b = b - a * a
+
+c = (a * 7 / 45 - 4567)*b
+
 
