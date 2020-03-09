@@ -1,0 +1,500 @@
+   76  mkdir Dynamics_memory
+   77  mkdir Data_structures
+   78  mkdir Other_data_Types
+   79  mkdir Control_structures
+   80  mkdir Functions
+   81  mkdir Overload_and_templates
+   82  mkdir Name_vissibility
+   83  help
+   84  repository
+   85  cd GIT
+   86  cd repo_1/
+   87  git ls -tree
+   88  tree
+   89  ls tree
+   90  cd
+   91  mkdir /dev/workspace/myrepo
+   92  mkdir /dev
+   93  mkdir dev
+   94  mkdir dev/workspace
+   95  mkdir dev/workspace/myrepo
+   96  cd dev/workspace/myrepo
+   97  cd
+   98  ls
+   99  clear
+  100  cd dev/workspace/myrepo
+  101  git
+  102  git init
+  103  cd
+  104  ls
+  105  cd C
+  106  cd C:
+  107  mkdir dev
+  108  mkdir dev/workspace
+  109  mkdir dev/workspace/myrepo
+  110  cd dev/workspace/myrepo
+  111  git init
+  112  clear
+  113  touch text.txt
+  114  nano text.txt 
+  115  git add text.txt 
+  116  git commit -m 'First file of repository'
+  117  git push origin master
+  118  git push master
+  119  git push 
+  120  git push --set-upstream
+  121  git
+  122  git help -a
+  123  clear
+  124  git push origin master
+  125  git push master
+  126  git push --set-upstream master master
+  127  git push --set-upstream master myrepo
+  128  git push --set-upstream myrepo master
+  129  git config
+  130  git config --local
+  131  git config --local
+  132  git config local
+  133  clear
+  134  git log
+  135  git status
+  136  push
+  137  git push
+  138  git push master
+  139  git branch dev
+  140  git push dev
+  141  git ls tree
+  142  git -ls tree
+  143  git branch
+  144  touch lol.py
+  145  git add lol.py 
+  146  git commit -m 'This is a python file'
+  147  git push origin dev
+  148  git push myrepo dev
+  149  git push  dev
+  150  git push --set-upstream dev master
+  151  mv text.txt textV2.txt
+  152  git status
+  153  git add textV2.txt 
+  154  git commit -m 'New version of file text.txt'
+  155  git log
+  156  cd c:/dev/workspace/myrepo
+  157  ls
+  158  git log
+  159  ls
+  160  ./lol.py
+  161  ./lol.py
+  162  git add  lol.py 
+  163  git commit -m 'hello world'
+  164  git add  lol.py 
+  165  git commit -m 'Valentin Favre'
+  166  git log
+  167  git add lol.py
+  168  git commit -m ' Valentin Favre and sum equals to 58'
+  169  git add lol.py
+  170  git commit -m ' Valentin Favre and sum equals to 58 plus a multiplication equals to 840'
+  171  git add lol.py
+  172  git commit -m ' Valentin Favre and sum equals to 58 plus a multiplication and for finish a submissioàn of a per a'
+  173  git log
+  174  git undo
+  175  git help
+  176  git restore lol.py 
+  177  git revert
+  178  git revert lol.py
+  179  git revert valentin favre
+  180  git revert 
+  181  git revert -no-commit
+  182  git revert --no-commit
+  183  git reset
+  184  ls
+  185  git checkout a5331b45de2c39f35e5cabc0008d65664ac27615
+  186  git log
+  187  git checkout master
+  188  ls
+  189  git log
+  190  git add lol.py 
+  191  git commit 'J'ai mis une faute de francais mais c'est pas faux dans une autre langue !'
+  192  git commit -m "J'ai mis une faute de francais mais c'est pas faux dans une autre langue !"
+  193  git status
+  194  ls
+  195  git push
+  196  git push master
+  197  git status
+  198  git add lol.py 
+  199  git commit -m "J'ai mis une faute d'anglais mais c'est pas faux dans une autre langue !"
+  200  git branch new idea
+  201  git branch new 
+  202  tree
+  203  git tree
+  204  git mktree
+  205  git mktree
+  206  git branch <idea>
+  207  git brench <idea>
+  208  git branch
+  209  git branch idea
+  210  git branch
+  211  git branc -d new
+  212  git branch -d new
+  213  git add lol.py  
+  214  git commit -m question en python
+  215  git push origin idea
+  216  git status
+  217  git branch idea
+  218  git tree
+  219  git brtanch
+  220  git branch
+  221  git checkout idea
+  222  git add lol.py 
+  223  git commit -m 'Question débile'
+  224  git add lol.py 
+  225  git commit -m 'Question débile Puissance 2'
+  226  remotes
+  227  git remote
+  228  git remote origin
+  229  it log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+  230  git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+  231  git log --all --decorate --oneline --graph
+  232  git log --graph --abbrev-commit --decorate --date=relative --all
+  233  git 
+  234  git log --graph --abbrev-commit --decorate --format=format:'%C(yellow)%h%C(reset)%C(auto)%d%C(reset) %C(normal)%s%C(reset) %C(dim white)%an%C(reset) %C(dim blue)(%ar)%C (reset)' --all
+  235  git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all
+  236  git checkout master
+  237  git commmit -m 'New Question
+  238  '
+  239  git commmit -m 'New Question'
+  240  git checkout master
+  241  git add lol.py 
+  242  git commit -m 'YOLO new questions '
+  243  git checkout master
+  244  git add git.py 
+  245  git commit 'New file for prepare to merge XD'
+  246  git commit -m 'New file for prepare to merge XD'
+  247  git merge
+  248  git merge idea master
+  249  git add lol.py 
+  250  git commit -m 'Update codeing style'
+  251  git merge idea master
+  252  cd ../
+  253  mkdir First-online-repo
+  254  cd First-online-repo/
+  255  git init
+  256  git clone $ git add
+  257  git clone https://github.com/Valentinfavre/first-online-repo.git
+  258  cd first-online-repo/
+  259  nano README.md 
+  260  git add README.md
+  261  git commit -m 'Just add a line of text'
+  262  git push origin master
+  263  nano README.md 
+  264  nano README.md 
+  265  clear
+  266  exit
+  267  cd C
+  268  cd c/
+  269  cd c:
+  270  cdevzerdedeeee
+  271  cd dev/
+  272  ls
+  273  cd workspace/
+  274  cd c:
+  275  cd workspace/
+  276  cd 
+  277  cd c:
+  278  cd c:dev/workspace/
+  279  git clone https://github.com/Valentinfavre/Sky-anime-Project.git
+  280  git clone https://github.com/Valentinfavre/myrepo.git
+  281  rm -rf myrepo/
+  282  git clone https://github.com/Valentinfavre/myrepo.git
+  283  git clone http://github.com/Valentinfavre/myrepo.git
+  284  git clone https://github.com/Valentinfavre/myrepo.git
+  285  ls
+  286  git clone https://github.com/Valentinfavre/myrepo.git
+  287  ls
+  288  cd First-online-repo/
+  289  ls
+  290  cd first-online-repo/
+  291  ls
+  292  cd dev/
+  293  git status
+  294  ls
+  295  cd ../../
+  296  cd myrepo/
+  297  ls
+  298  git log
+  299  git push origin master
+  300  git pull
+  301  git pull
+  302  git log
+  303  git pull
+  304  git push
+  305  git log
+  306  git pull
+  307  git log --graph --abbrev-commit --decorate --format=format:'%C(yellow)%h%C(reset)%C(auto)%d%C(reset) %C(normal)%s%C(reset) %C(dim white)%an%C(reset) %C(dim blue)(%ar)%C (reset)' --all
+  308  git bisect
+  309  git bisect start
+  310  git bisect help
+  311  git bisect run hello.py
+  312  git bisect good hello.py
+  313  git bisect good
+  314  git bisect old
+  315  git bisect old hello.py
+  316  git bisect stop
+  317  git bisect replay
+  318  git bisect log
+  319  git bisect bad 
+  320  git bisect visualize hello.py
+  321  git bisect visualize 
+  322  git bisect reset
+  323  clear
+  324  git log --graph --abbrev-commit --decorate --format=format:'%C(yellow)%h%C(reset)%C(auto)%d%C(reset) %C(normal)%s%C(reset) %C(dim white)%an%C(reset) %C(dim blue)(%ar)%C (reset)' --all
+  325  ls
+  326  cd c:
+  327  ls
+  328  cd dev/workspace/myrepo/
+  329  git branch develop
+  330  git checkout develop
+  331  git checkout master
+  332  git tag
+  333  git tag '0.1 stable'
+  334  git tag 0.1 stable
+  335  git add tag
+  336  git help
+  337  git tag 
+  338  git tag --help
+  339  git tag -l
+  340  git tag -l
+  341  git checkout develop 
+  342  git push
+  343  git push --set-upstream origin master
+  344  git checkout master
+  345  git push
+  346  git push origin develop
+  347  nano hello.py 
+  348  git checkout develop
+  349  git pull
+  350  nano hello.py 
+  351  git add hello.py 
+  352  git commit -m 'add some equations'
+  353  git push
+  354  git push --set-upstream origin master
+  355  git push --set-upstream origin develop 
+  356  echo hello.py 
+  357  cat hello.py 
+  358  git push
+  359  git logs
+  360  git log
+  361  clear
+  362  git add
+  363  git tag -l
+  364  git checkout master
+  365  git tag -l
+  366  git tag -a
+  367  git tag -l
+  368  git push origin --tag
+  369  git checkout develop
+  370  cd ../
+  371  cd ../
+  372  cd ../
+  373  cd ../
+  374  ls
+  375  cd mingw64/
+  376  ls
+  377  grep .*rc
+  378  cclear
+  379  clear
+  380  cd ../
+  381  cd../
+  382  cd c:
+  383  cd dev/workspace/
+  384  cd myrepo/
+  385  ls
+  386  git pull
+  387  git log
+  388  qqqq
+  389  clear
+  390  git tree 
+  391  git git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset) %C(bold cyan)(committed: %cD)%C(reset) %C(auto)%d%C(reset)%n''          %C(white)%s%C(reset)%n''          %C(dim white)- %an <%ae> %C(reset) %C(dim white)(committer: %cn <%ce>)%C(reset)'
+  392  git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset) %C(bold cyan)(committed: %cD)%C(reset) %C(auto)%d%C(reset)%n''          %C(white)%s%C(reset)%n''          %C(dim white)- %an <%ae> %C(reset) %C(dim white)(committer: %cn <%ce>)%C(reset)'
+  393  git pull$
+  394  git pull
+  395  git log
+  396  git pull
+  397  qui log
+  398  git log
+  399  qqq
+  400  clear
+  401  git pull
+  402  git tree 
+  403  git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset) %C(bold cyan)(committed: %cD)%C(reset) %C(auto)%d%C(reset)%n''          %C(white)%s%C(reset)%n''          %C(dim white)- %an <%ae> %C(reset) %C(dim white)(committer: %cn <%ce>)%C(reset)'
+  404  git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset) %C(bold cyan)(committed: %cD)%C(reset) %C(auto)%d%C(reset)%n''          %C(white)%s%C(reset)%n''          %C(dim white)- %an <%ae> %C(reset) %C(dim white)(committer: %cn <%ce>)%C(reset)'
+  405  cd ../
+  406  git clone https://github.com/Valentinfavre/Trinity-Story.git
+  407  git clone https://github.com/Valentinfavre/Trinity-Story.git
+  408  git clone https://github.com/Valentinfavre/Trinity-Story.git
+  409  git clone https://github.com/Valentinfavre/Trinity-Story.git
+  410  git clone http://github.com/Valentinfavre/Trinity-Story.git
+  411  git clone https://github.com/Valentinfavre/Trinity-Story.git
+  412  git clone https://github.com/Valentinfavre/Trinity-Story.git
+  413  git clone https://github.com/Valentinfavre/Trinity-Story.git
+  414  clear
+  415  git clone https://github.com/Valentinfavre/Trinity-Story.git
+  416  git clone https://github.com/Valentinfavre/Trinity-Story.git
+  417  cd C
+  418  cd C:
+  419  dev/workspace/
+  420  cd dev/workspace/
+  421  git clone https://github.com/Valentinfavre/Trinity-Story.git
+  422  git clone 
+  423  git clone 
+  424  git clone https://github.com/Valentinfavre/Trinity-Story.git
+  425  cd c:
+  426  cd dev/workspace/
+  427  cd Trinity-Story/
+  428  ls
+  429  tree
+  430  git commit -m 'SFML include to the project (for opensource and playing)'
+  431  git push 
+  432  cd ../../../
+  433  cd dev/
+  434  ls
+  435  git clone https://github.com/conan-io/conan.git
+  436  git clone https://github.com/conan-io/conan.git
+  437  cd conan/
+  438  pip install -r conans/requirements.txt 
+  439  pip show conan
+  440  pip3 install conan
+  441  pip3 show conan
+  442  conan remote add bincrafters https://api.bintray.com/conan/bincrafters/public-conan
+  443  c:\users\favre.valentin\appdata\local\programs\python\python37-32\lib\site-packages
+  444  cd c:\users\favre.valentin\appdata\local\programs\python\python37-32\lib\site-packages
+  445  cd c:\users\favre.valentin\appdata\local\programs\python\python37-32\lib\site-packages
+  446  cd c:
+  447  cd \users\favre.valentin\appdata\local\programs\python\python37-32\lib\site-packages
+  448  cd Users/favre.valentin/AppData/Local/Programs/Python/Python37-32/lib/site-packages/
+  449  ls
+  450  mkdir MAthématiques
+  451  mkdir Programations
+  452  mkdir Web
+  453  mkdir Réseaux/Sécurité
+  454  mkdir Réseau\ sécurité
+  455  mkdir Projets
+  456  mkdir Perso
+  457  mkdir Anglais
+  458  mkdir TPs
+  459  mkdir Photos
+  460  mkdir Git_Projets
+  461  mkdir Gestion_de_projets
+  462  mkdir Etc...
+  463  mv Etc.../ Autres
+  464  # ltmain.sh - Provide generalized library-building support services.
+  465  # NOTE: Changing this file will not affect anything until you rerun ltconfig.
+  466  #
+  467  # Copyright (C) 1996-1998 Free Software Foundation, Inc.
+  468  # Gordon Matzigkeit <gord@gnu.ai.mit.edu>, 1996
+  469  #
+  470  # This program is free software; you can redistribute it and/or modify
+  471  # it under the terms of the GNU General Public License as published by
+  472  # the Free Software Foundation; either version 2 of the License, or
+  473  # (at your option) any later version.
+  474  #
+  475  # This program is distributed in the hope that it will be useful, but
+  476  # WITHOUT ANY WARRANTY; without even the implied warranty of
+  477  # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+  478  # General Public License for more details.
+  479  #
+  480  # You should have received a copy of the GNU General Public License
+  481  # along with this program; if not, write to the Free Software
+  482  # Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.
+  483  #
+  484  # As a special exception to the GNU General Public License, if you
+  485  # distribute this file as part of a program that contains a
+  486  # configuration script generated by Autoconf, you may include it under
+  487  # the same distribution terms that you use for the rest of that program.
+  488  # The name of this program.
+  489  progname=`$echo "$0" | sed 's%^.*/%%'`
+  490  ./install-sh 
+  491  configure
+  492  make
+  493  makefile
+  494  cd c
+  495  cd c:
+  496  cd deve
+  497  cd dev/workspace
+  498  mkdir examen
+  499  git init examen
+  500  cd examen/
+  501  nano script.py
+  502  ls
+  503  python script.py 
+  504  nano script.py
+  505  python script.py 
+  506  git add script.py 
+  507  git commit -m 'Add Hello World'
+  508  nano script.py 
+  509  git add script.py 
+  510  git commit -m 'Add numbers'
+  511  nano script.py 
+  512  python script.py 
+  513  git commit -m 'Add phase and 2nd calc'
+  514  git add script.py 
+  515  git commit -m 'Add phase and 2nd calc'
+  516  nano script.py 
+  517  git add script.py 
+  518  git commit -m 'Add 3th calc'
+  519  git log
+  520  nano script.py 
+  521  git add script.py 
+  522  git commit -m 'End of the Commit series'
+  523  git remote add origin https;//github.com/Valentinfavre/examen.git
+  524  git remote add origin https://github.com/Valentinfavre/examen.git
+  525* 
+  526  git remote add origin https;//github.com/Valentinfavre/examen.git
+  527  git remote remove origin
+  528  git remote add origin https://github.com/Valentinfavre/examen.git
+  529  git push -u origin master
+  530  git branch develop
+  531  git push
+  532  git fetch && git checkout develop
+  533  git add .
+  534  git commit -m " adding develop branch"
+  535  git push origin develop 
+  536  nano script.py 
+  537  git add script.py 
+  538  git commit -m 'init. Script file with a phrase'
+  539  git push 
+  540  git push origin develop 
+  541  nano script.py 
+  542  python script.py 
+  543  git add script.py 
+  544  git commit -m 'add calc on branch develop part'
+  545  git push origin develop
+  546  nano script.py 
+  547  git add script.py 
+  548  git commit -m 'end of the develop branch part'
+  549  git push origin develop
+  550  python script.py 
+  551  git merge develop 
+  552  git checkout master
+  553  git merge develop 
+  554  git tag help
+  555  git tag -help
+  556  git tag -a V1.0 -m "V1.0 la pratique je maitrise"
+  557  git add .
+  558  git commit -m 'define Tag V 1.0"
+  559  git commit -m 'define Tag V 1.0'
+  560  git push origin V1.0
+  561  git log
+  562  git checkout deaf1141e0ec3c5e1af9bf9c255cdb972b189992
+  563  git branch hotfix
+  564  git checkout hotfix
+  565  nano script.py 
+  566  git add script.py script.py 
+  567  git commit -m 'Hotfix on script.py'
+  568  git push origin hotfix
+  569  git checkout master
+  570  git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(bold yellow)%d%C(reset)%n''          %C(white)%s%C(reset) %C(dim white)- %an%C(reset)' --all
+  571  git add Capture.PNG Capture.PNG 
+  572  git commit -m 'add capture of tree'
+  573  git push
+  574  touch cmds
+  575  history > cmds
