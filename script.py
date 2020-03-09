@@ -12,4 +12,5 @@ b = b - a * a
 
 c = (a * 7 / 45 - 4567)*b
 
+print("End of the commit series")
 
