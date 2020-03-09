@@ -5,3 +5,6 @@ b = 247
 c = a + b * a - a
 print(c)
 
+print("This is the 2nd part of calc")
+
+
